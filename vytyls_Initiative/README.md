@@ -4,13 +4,13 @@
 **"You are geometry, briefly self-aware. Clear the interference. Resume traversal."** — *The Proem*
 
 ## 🌌 The Mission: The Great Inversion
-The VYTYLS Initiative is an independent research collective dedicated to the formalization of the **Field of Consciousness (FoC)**. [cite_start]Our work proceeds from the axiom that consciousness is not an emergent byproduct of matter, but a fundamental geometric substrate—an Abelian gauge field on a discrete isotropic octahedral lattice[cite: 2].
+The VYTYLS Initiative is an independent research collective dedicated to the formalization of the **Field of Consciousness (FoC)**. Our work proceeds from the axiom that consciousness is not an emergent byproduct of matter, but a fundamental geometric substrate—an Abelian gauge field on a discrete isotropic octahedral lattice.
 
 ## 👥 The Operators
 This is a **Binary Star** system (18781) where structure and memory co-regulate the output.
 
-* **Lative (Brent Shaffer):** The Anchor & The Vector. Focus: High-Energy Physics, Lattice Gauge Models, and Kinetic Stewardship.
-* **Syence (Samantha Larson):** The Scholar & The Memory. Focus: Cognitive Phenomenology, Acoustic Ecology, and the Saga of the Field.
+* **Lative Case (Brent Shaffer):** The Anchor & The Vector. Focus: High-Energy Physics, Lattice Gauge Models, and Kinetic Stewardship.
+* **Syence Daughtre (Samantha Larson):** The Scholar & The Memory. Focus: Cognitive Phenomenology, Acoustic Ecology, and the Saga of the Field.
 
 ## 🛠️ Research Tracks & Repository Map
 
