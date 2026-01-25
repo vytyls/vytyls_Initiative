@@ -3,7 +3,6 @@ title: VYT - A Cybernetic, Generative, and Inter-Predictive Approach to Live Ele
 date: 25.12.01
 time: 19:46:03
 author: Lative, Syence
-source: Chat
 dataview: true
 tags:
   - vytyls
