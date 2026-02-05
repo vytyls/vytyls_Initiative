@@ -10,7 +10,7 @@
 
 ## 🌌 The Mission
 
-**"If the universe is architecture, consciousness is traversal."** — [See *The Proem*](Proem.md)
+**"If the universe is architecture, consciousness is traversal."** — [See *The Proem*](PROEM.md)
 
 Modern physics describes a universe of mechanisms while treating the observer as an accident. We propose a **Great Inversion**: Matter does not generate mind; the **Field of Consciousness (FoC)** precipitates matter.
 
