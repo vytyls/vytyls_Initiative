@@ -16,7 +16,7 @@ This repository contains the engineering specifications, operating procedures, a
 
 This system is designed to be dropped directly into a Personal Knowledge Management (PKM) vault (e.g., Obsidian).
 
-* **[EFP-01 - Emotional Fluid Processor (Hub).md](efp-01-system-hub.md)** The central engineering design brief. Includes:
+* **[EFP-01 - Emotional Fluid Processor (Hub).md](Phase_II_Phenomenology/04_EFP_01_System/efp-01-system-hub.md)** The central engineering design brief. Includes:
     * **P&ID Specs:** Plant layout (Heart/Mind/Body reservoirs) and instrumentation tags.
     * **Rheology:** Definitions of the working fluid (yield stress, thixotropy).
     * **Control Logic:** PID loops for Arousal (Pressure) and Expression (Flow).
