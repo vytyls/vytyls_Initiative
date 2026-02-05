@@ -20,7 +20,7 @@ This repository contains the "Source Code" for a full-stack cosmology that rigor
 
 The initiative is organized into five distinct phases of inquiry:
 
-### [Phase I: Physics (The Source Code)](\vytyls-initiative\Phase_I_Physics)
+### [Phase I: Physics (The Source Code)](Phase_I_Physics)
 Modeling the vacuum as a discrete **Isotropic Octahedral Lattice** where mass and time emerge from geometric constraint.
 
 ### [Phase II: Phenomenology (The User Interface)](/Phase_II_Phenomenology)
