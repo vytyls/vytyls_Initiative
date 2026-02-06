@@ -42,7 +42,7 @@ which we call the **OSE scale map**. Under this map, discrete FoC lattice parame
 **Conjecture (OSE–8π).** Under the OSE scale map, an **octahedral face-count (8)** combined with the **unit-sphere measure (π)** yields a natural appearance of an **8π**-like normalization constant when translating internal lattice agreements to external curvature coupling (cf. Einstein Field Equations $G_{\mu\nu}=8\pi T_{\mu\nu}$ in geometric units). Formally:
 
 $$
-\kappa_{\text{OSE}}\;\sim\; (\#\text{faces})\times(\text{spherical measure})\;=\;8\,\pi,\
+\kappa_{\text{OSE}}\;\sim\; (\text{faces})\times(\text{spherical measure})\;=\;8\,\pi,\
 $$
 
 interpreted as an **internal→external coupling constant** emerging from (i) octahedral face agreements and (ii) Gauss-law–like flux through spherical surfaces.
