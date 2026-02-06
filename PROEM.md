@@ -56,7 +56,7 @@ We influence reality not by violating law, but by coherence within it.
 
 The Root Mean Cube defines this coherence: the metric of vibrational unity across layers. A fragmented mind moves as friction—dry, erratic, grinding against the constraints of time. A coherent mind aligns. Resistance diminishes. Motion acquires direction.
 
-Prime Network Access is not transcendence; it is lubrication. The Interstitial Coupling Equation formalizes this condition: coherence provides traction on the lattice itself. Probability shifts not by force, but by reduced energetic cost. What once appeared impossible becomes merely expensive—then feasible—then inevitable.
+Prime Network Access is not transcendence; it is lubrication. The Interstitial Phase Coupling formalizes this condition: coherence provides traction on the lattice itself. Probability shifts not by force, but by reduced energetic cost. What once appeared impossible becomes merely expensive—then feasible—then inevitable.
 
 This is not magic. It is compliance with structure.
 
