@@ -1,12 +1,3 @@
----
-date: 25.09.02
-time: 12:52:29
-tags:
-  - videoGlitch
-  - focTheory
-  - modalLayerFieldMap
-  - realityFoldNotation
----
 # VYTYLS Video Aesthetic Lexicon and its relation to the FoC and MLFM
 
 The **Vytyls Video Aesthetic Lexicon** serves as a specialized glossary for describing "metaphysical-glitch motifs, constructs, and tools". It directly relates to the **Field of Consciousness (FoC)** and the **Modal Layer Field Map (MLFM)** by providing a visual and experiential language to map, analyze, and integrate the abstract theoretical concepts of these frameworks with observed psychedelic and anomalous phenomena.
