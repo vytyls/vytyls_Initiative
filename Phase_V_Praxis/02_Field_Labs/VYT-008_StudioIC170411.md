@@ -31,7 +31,7 @@ Location: 2241 W 21st St, Chicago, IL 60608
 * **Annotation**:
 ```
 
-Recorded within the controlled environment of Studio ICY. Unlike the venue recordings, these sessions document the 'Condition-Field' calibration process in isolation. This is the sound of the system talking to itself without the interference of a room.
+Recorded at Studio ICY, a now-defunct DIY node in the Pilsen sector. Far from a sterile isolation booth, this underground hub offered a raw, autonomous zone for experimentation. These sessions document the system operating within the specific grit and freedoms of Chicago's lost independent infrastructure.
 
 ```
 
