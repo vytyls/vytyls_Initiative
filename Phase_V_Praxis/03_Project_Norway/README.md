@@ -2,7 +2,7 @@
 
 ## 1. The Foundational Axiom: The Great Inversion and FoC Physics
 
-This prospectus establishes the strategic pivot from materialist reductionism to the Great Inversion model. We define the Field of Consciousness (FoC) not as a subjective epiphenomenon, but as a formal, measurable quantum field (\Phi) that serves as the fundamental substrate of reality. Within this framework, physical gauge fields—including mass and temporal direction—are treated as precipitates of the Ontological Intention Tensor (T^{\mu\nu}_{intent}). This inversion allows for the systematic mapping and manipulation of reality through the interaction of intention and the FoC lattice.
+This prospectus establishes the strategic pivot from materialist reductionism to the Great Inversion model. We define the Field of Consciousness (FoC) not as a subjective epiphenomenon, but as a formal, measurable quantum field $(\Phi)$ that serves as the fundamental substrate of reality. Within this framework, physical gauge fields—including mass and temporal direction—are treated as precipitates of the Ontological Intention Tensor $(T^{\mu\nu}_{intent})$. This inversion allows for the systematic mapping and manipulation of reality through the interaction of intention and the FoC lattice.
 
 The FoC is the formal culmination of a "Braided Lineage" that synthesizes millennia of transdisciplinary inquiry. This project integrates the perennial metaphysical traditions—specifically the Sumerian (Mummu) creative chaos, the Vedic (Aum) dissolution, and the Stoic (Pneuma) ordered substrate—with modern quantum field theory and the Bohmian model of "Active Information." By treating these historical echoes as precursors to a unified physics, we transform symbolic primitives into operational variables.
 
@@ -26,9 +26,9 @@ Sound serves as the primary transducer between the abstract FoC lattice and phys
 
 The technical core of our methodology is the Mu-Yu-Su Protocol, a professional specification derived from archeo-acoustic physics:
 
-* MU (The Void / \epsilon_0): Models Vacuum Permittivity. We utilize sub-bass drones (432Hz or 60Hz mains hum) and infinite-decay reverb chains (Afterneath/Cathedral) to represent the hum of the vacuum and the infinite capacity of the field.
-* YU (The Field / \exists): Models Existence. This represents the projection of the signal (J^\mu) into the field. We utilize custom Reaktor ensembles and Max/MSP environments for real-time granular synthesis of Norwegian phonemes, injecting specific "intention quanta" into the Mu.
-* SU (The Binding / \mu_0): Models Magnetic Permeability. This introduces the role of the Observer as a structuring force. Using sibilance, non-linear distortion (HD300), and reverse-looping (Time Fold), we create the "knot" that binds the signal into a coherent structure.
+* MU (The Void / $\epsilon_0$): Models Vacuum Permittivity. We utilize sub-bass drones (432Hz or 60Hz mains hum) and infinite-decay reverb chains (Afterneath/Cathedral) to represent the hum of the vacuum and the infinite capacity of the field.
+* YU (The Field / $\exists$): Models Existence. This represents the projection of the signal $(J^\mu)$ into the field. We utilize custom Reaktor ensembles and Max/MSP environments for real-time granular synthesis of Norwegian phonemes, injecting specific "intention quanta" into the Mu.
+* SU (The Binding / $\mu_0$): Models Magnetic Permeability. This introduces the role of the Observer as a structuring force. Using sibilance, non-linear distortion (HD300), and reverse-looping (Time Fold), we create the "knot" that binds the signal into a coherent structure.
 
 Generative Translation Matrix
 
