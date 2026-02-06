@@ -11,18 +11,18 @@ Location: 3425 W Fullerton Ave, Chicago, IL 60647
 * **Date | Time**: [17.03.11]  [20:00]
 * **Local Coordinates**: [41.92483778035861, -87.71321736026623]
 * **System Duration**: [00:00:00]
-* **Resonance Catalogue**: [Bandcamp] 
+* **Resonance Catalogue**: [phasisPhainein_06](https://vytyls.bandcamp.com/album/phasisphainein-06) 
 
 ## <u>Evolution | Dynamics</u>:
 
 | <u>Position</u> | <u>State \| Shift</u>           | <u>Length</u> |
 | --------------- | ------------------------------- | ------------- |
-| 01              | Jolsen_01_170311_Burlington2    |               |
-| 02              | Eldrit_02_170311_Burlington2    |               |
-| 03              | Lsdseq2_03_170311_Burlington2   |               |
-| 04              | Pleadig_04_170311_Burlington2   |               |
-| 05              | Mathmetic_05_170311_Burlington2 |               |
-| 06              | Outro75_06_170311_Burlington2   |               |
+| 01              | Jolsen_01_170311_Burlington2    | 00:03:46      |
+| 02              | Eldrit_02_170311_Burlington2    | 00:05:40      |
+| 03              | Lsdseq2_03_170311_Burlington2   | 00:06:41      |
+| 04              | Pleadig_04_170311_Burlington2   | 00:05:37      |
+| 05              | Mathmetic_05_170311_Burlington2 | 00:05:41      |
+| 06              | Outro75_06_170311_Burlington2   | 00:06:52      |
 
 ## <u>Corespondance</u>:
 
@@ -31,6 +31,8 @@ Location: 3425 W Fullerton Ave, Chicago, IL 60647
 ```
 
 Graphs / Vytyls / Magicks
+
+An early documentation of the Phasis Phainein cycle. This set captures the VYTYLS system in its formative 'Condition-Setting' phase, establishing the harmonic boundaries that would define the 2017–2019 era.
 
 ```
 

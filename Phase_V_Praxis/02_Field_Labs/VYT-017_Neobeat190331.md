@@ -11,17 +11,17 @@ Location: 2521 N Milwaukee Ave, Chicago, IL 60647
 * **Date | Time**: [19.03.31]  [00:00:00]
 * **Local Coordinates**: [41.92761802409943, -87.70403964500647]
 * **System Duration**: [00:00:00]
-* **Resonance Catalogue**: [Bandcamp] 
+* **Resonance Catalogue**: [phasisPhainein_17](https://vytyls.bandcamp.com/album/phasisphainein-17) 
 
 ## <u>Evolution | Dynamics</u>:
 
 | <u>Position</u> | <u>State \| Shift</u>           | <u>Length</u> |
 | --------------- | ------------------------------- | ------------- |
-| 01              | Starton_01_190331_NeoBeat_02    |               |
-| 02              | Thisinest_02_190331_NeoBeat_02  |               |
-| 03              | Ifnmatic_03_190331_NeoBeat_02   |               |
-| 04              | Intouclint_04_190331_NeoBeat_02 |               |
-| 05              | Hintionph_05_190331_NeoBeat_02  |               |
+| 01              | Starton_01_190331_NeoBeat_02    | 00:09:21      |
+| 02              | Thisinest_02_190331_NeoBeat_02  | 00:06:09      |
+| 03              | Ifnmatic_03_190331_NeoBeat_02   | 00:07:25      |
+| 04              | Intouclint_04_190331_NeoBeat_02 | 00:07:41      |
+| 05              | Hintionph_05_190331_NeoBeat_02  | 00:04:21      |
 
 ## <u>Corespondance</u>:
 
@@ -30,6 +30,8 @@ Location: 2521 N Milwaukee Ave, Chicago, IL 60647
 ```
 
 NeoBeat Live @ The Owl - Vytyls / Hugo / Loses / Tanja Buhler (DJ) 
+
+Live at The Owl for Neobeat. Captured in the early hours, this set reflects a 'Hypnagogic' system state—where fatigue and intuition blend into a fluid, dream-logic navigation of the sample banks.
 
 ```
 

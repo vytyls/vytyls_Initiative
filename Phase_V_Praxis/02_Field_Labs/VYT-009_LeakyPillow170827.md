@@ -11,20 +11,20 @@ Location: 2725 W 16th St, Chicago, IL 60608
 * **Date | Time**: [17.08.27]  [00:00:00]
 * **Local Coordinates**: [41.85926373413233, -87.69430416026859]
 * **System Duration**: [00:00:00]
-* **Resonance Catalogue**: [Bandcamp] 
+* **Resonance Catalogue**: [phasisPhainein_09](https://vytyls.bandcamp.com/album/phasisphainein-09) 
 
 ## <u>Evolution | Dynamics</u>:
 
 | <u>Position</u> | <u>State \| Shift</u>           | <u>Length</u> |
 | --------------- | ------------------------------- | ------------- |
-| 01              | Jolsen_01_170827_LeakyPillow    |               |
-| 02              | Plomyre_02_170827_LeakyPillow   |               |
-| 03              | Eldrit_03_170827_LeakyPillow    |               |
-| 04              | Lsdseq2_04_170827_LeakyPillow   |               |
-| 05              | Pleadig_05_170827_LeakyPillow   |               |
-| 06              | Mathmetic_06_170827_LeakyPillow |               |
-| 07              | Rusty_07_170827_LeakyPillow     |               |
-| 08              | Outro75_08_170827_LeakyPillow   |               |
+| 01              | Jolsen_01_170827_LeakyPillow    | 00:07:02      |
+| 02              | Plomyre_02_170827_LeakyPillow   | 00:08:45      |
+| 03              | Eldrit_03_170827_LeakyPillow    | 00:08:53      |
+| 04              | Lsdseq2_04_170827_LeakyPillow   | 00:08:03      |
+| 05              | Pleadig_05_170827_LeakyPillow   | 00:08:02      |
+| 06              | Mathmetic_06_170827_LeakyPillow | 00:07:32      |
+| 07              | Rusty_07_170827_LeakyPillow     | 00:06:02      |
+| 08              | Outro75_08_170827_LeakyPillow   | 00:13:15      |
 
 ## <u>Corespondance</u>:
 
@@ -33,6 +33,8 @@ Location: 2725 W 16th St, Chicago, IL 60608
 ```
 
 Dear Poets Read at the Leaky Pillow ft. Vytyls
+
+A transmission from the Leaky Pillow. This set navigates a denser, more claustrophobic acoustic environment. The close quarters forced a tighter feedback loop between Lative and Syence, resulting in more aggressive rhythmic limiting.
 
 ```
 

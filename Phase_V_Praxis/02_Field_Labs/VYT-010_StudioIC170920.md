@@ -11,18 +11,18 @@ Location: 2241 W 21st St, Chicago, IL 60608
 * **Date | Time**: [17.09.20]  [00:00:00]
 * **Local Coordinates**: [41.85390260724297, -87.68245357476434]
 * **System Duration**: [00:00:00]
-* **Resonance Catalogue**: [Bandcamp] 
+* **Resonance Catalogue**: [phasisPhainein_10](https://vytyls.bandcamp.com/album/phasisphainein-10)
 
 ## <u>Evolution | Dynamics</u>:
 
 | <u>Position</u> | <u>State \| Shift</u>          | <u>Length</u> |
 | --------------- | ------------------------------ | ------------- |
-| 01              | Netsimed_01_170920_StudioIC2   |               |
-| 02              | Intouclint_02_170920_StudioIC2 |               |
-| 03              | Gripped_03_170920_StudioIC2    |               |
-| 04              | Sound150_04_170920_StudioIC2   |               |
-| 05              | Amrbroqua_05_170920_StudioIC2  |               |
-| 06              | End_06_170920_StudioIC2        |               |
+| 01              | Netsimed_01_170920_StudioIC2   | 00:10:10      |
+| 02              | Intouclint_02_170920_StudioIC2 | 00:09:07      |
+| 03              | Gripped_03_170920_StudioIC2    | 00:10:56      |
+| 04              | Sound150_04_170920_StudioIC2   | 00:07:29      |
+| 05              | Amrbroqua_05_170920_StudioIC2  | 00:07:51      |
+| 06              | End_06_170920_StudioIC2        | 00:09:54      |
 
 ## <u>Corespondance</u>:
 
@@ -30,8 +30,7 @@ Location: 2241 W 21st St, Chicago, IL 60608
 * **Annotation**:
 ```
 
-Anything to note...
-Do so here.
+Recorded within the controlled environment of Studio ICY. Unlike the venue recordings, these sessions document the 'Condition-Field' calibration process in isolation. This is the sound of the system talking to itself without the interference of a room.
 
 ```
 
