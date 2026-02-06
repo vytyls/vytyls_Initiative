@@ -5,9 +5,9 @@
 This directory contains the foundational physics of the **Field of Consciousness (FoC)**. We posit that the vacuum is not empty, but a discrete **Isotropic Octahedral Lattice**.
 
 ## 📂 Structure
-* **[/01_Paper](Phase_I_Physics/01_Paper):** The formal pre-print: *"The Field of Consciousness: A Lattice Gauge Model of Emergent Mass and Time"*.
-* **[/02_Research](Phase_I_Physics/02_Research):** Notes on the **Ontological Intention Tensor**, **Geometric Tax** ($\kappa_{scale}=1/2$), and the **Triple-Well Potential**.
-* **[/03_Code](Phase_I_Physics/03_Code):** Python/C++ simulations of the "Validation Trifecta":
+* **[/01_Paper](01_Paper):** The formal pre-print: *"The Field of Consciousness: A Lattice Gauge Model of Emergent Mass and Time"*.
+* **[/02_Research](02_Research):** Notes on the **Ontological Intention Tensor**, **Geometric Tax** ($\kappa_{scale}=1/2$), and the **Triple-Well Potential**.
+* **[/03_Code](03_Code):** Python/C++ simulations of the "Validation Trifecta":
     1.  1D PDE Domain Formation.
     2.  2D Lattice Confinement (Creutz Ratios).
     3.  Quantum Link Flux Flips.

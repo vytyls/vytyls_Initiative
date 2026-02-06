@@ -7,8 +7,8 @@ If consciousness is recursive (capable of self-observation), it creates loops. I
 We demonstrate that the FoC protects global causality not by forbidding recursion, but by **quarantining** it within mesoscopic spacetime bubbles.
 
 ## 📂 Structure
-* **[/01_paper](Phase_IV_Causality/01_Paper)**: `foc-paper-4-causal-lamination-outline.md` — The master outline for the "Recursive Geometries" paper.
-* **[/02_research](Phase_IV_Causality/02_Research)**:
+* **[/01_paper](01_Paper)**: `foc-paper-4-causal-lamination-outline.md` — The master outline for the "Recursive Geometries" paper.
+* **[/02_research](02_Research)**:
     * `kerr-junction-containment-v2.md`: Derivation of the **Israel Junction Conditions** for the containment shell.
     * `semi-dirac-boundary-condition.md`: The "Causal Diode" mechanism.
     * `ads-kerr-holographic-transducer.md`: The bulk-boundary dictionary for recursive depth.
